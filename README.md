@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;MS+in+Data+Science+@+Columbia+University;IIT+Bombay+Alumnus;Reinforcement+Learning+%7C+Causal+Inference+%7C+LLMs">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;MS+in+Data+Science+@+Columbia+University;IIT+Bombay+Alumnus;Agentic+AI">
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 - 🧠 TA for *Machine Learning for Data Science*  
 - 💼 Currently an **Agentic AI Intern @ Honeywell**  
 - 🔬 Previously a **Graduate Researcher with Google x Columbia**  
-- 💡 Open to **internships** for Fall 2025 – [Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
+- 💡 Open to **Full time opportunities** – [Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
 - ♟️ Chess player | 🏎️ F1 fan | 🧠 Curious builder
 
 ---
