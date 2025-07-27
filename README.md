@@ -17,7 +17,7 @@
 - 🧠 TA for *Machine Learning for Data Science*  
 - 💼 Currently an **Agentic AI Intern @ Honeywell**  
 - 🔬 Previously a **Graduate Researcher with Google x Columbia**  
-- 💡 Open to **Full time opportunities** – [Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
+- 💡 Open to **Full time opportunities** – [Resume](https://drive.google.com/file/d/1bA39RHEG1jdRs8E11uKmATdbd7dUatb3/view?usp=sharing)  
 - ♟️ Chess player | 🏎️ F1 fan | 🧠 Curious builder
 
 ---
