@@ -16,7 +16,7 @@
 - 🎓 BTech in **Mechanical Engineering** from [IIT Bombay](https://www.iitb.ac.in/), with minors in **Computer Science** and **Data Science**  
 - 📊 Passionate about **GEN AI**, **Machine Learning**, **LLMs**, **Reinforcement Learning**  
 - 🧠 TA for *Machine Learning for Data Science* @ Columbia  
-- 💼 Open to **internship opportunities** in Summer/Fall 2025 — [View My Resume](https://drive.google.com/file/d/14Fj9uiniJX5tfiPvYNAVDwZfRRxP6-UO/view?usp=sharing)  
+- 💼 Open to **Full time opportunities** — [View My Resume](https://drive.google.com/file/d/14Fj9uiniJX5tfiPvYNAVDwZfRRxP6-UO/view?usp=sharing)  
 - 🏎️ Also into Chess ♟️ and F1 🏁!
 
 ---
