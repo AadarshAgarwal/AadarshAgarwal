@@ -14,9 +14,9 @@
 
 - 🎓 MS in **Data Science** at [Columbia University](https://datascience.columbia.edu/), GPA: **4.22/4.00**  
 - 🎓 BTech in **Mechanical Engineering** from [IIT Bombay](https://www.iitb.ac.in/), with minors in **Computer Science** and **Data Science**  
-- 📊 Passionate about **Machine Learning**, **LLMs**, **Reinforcement Learning**, and **AI for Healthcare & Energy**  
+- 📊 Passionate about **GEN AI**, **Machine Learning**, **LLMs**, **Reinforcement Learning**  
 - 🧠 TA for *Machine Learning for Data Science* @ Columbia  
-- 💼 Open to **internship opportunities** in Summer/Fall 2025 — [View My Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
+- 💼 Open to **internship opportunities** in Summer/Fall 2025 — [View My Resume](https://drive.google.com/file/d/14Fj9uiniJX5tfiPvYNAVDwZfRRxP6-UO/view?usp=sharing)  
 - 🏎️ Also into Chess ♟️ and F1 🏁!
 
 ---
@@ -60,15 +60,6 @@
 
 **DevOps & Tools**:  
 `Docker`, `Kubernetes`, `Git`, `AWS`, `REST APIs`, `Gradio`, `PostgreSQL`
-
----
-
-## 📚 Currently Learning
-
-- 🔁 Reinforcement Learning in Production  
-- 📊 Causal Inference + Uplift Modeling  
-- 🧠 Multimodal Transformers for Healthcare  
-- 📈 Time Series & Signal Forecasting
 
 ---
 
