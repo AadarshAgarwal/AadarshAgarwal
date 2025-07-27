@@ -12,54 +12,92 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-- 🎓 MS in **Data Science** at [Columbia University](https://datascience.columbia.edu/), GPA: **4.22/4.00**  
-- 🎓 BTech in **Mechanical Engineering** from [IIT Bombay](https://www.iitb.ac.in/), with minors in **Computer Science** and **Data Science**  
-- 📊 Passionate about **GEN AI**, **Machine Learning**, **LLMs**, **Reinforcement Learning**  
-- 🧠 TA for *Machine Learning for Data Science* @ Columbia  
-- 💼 Open to **Full time opportunities** — [View My Resume](https://drive.google.com/file/d/14Fj9uiniJX5tfiPvYNAVDwZfRRxP6-UO/view?usp=sharing)  
-- 🏎️ Also into Chess ♟️ and F1 🏁!
+- 🎓 MS in **Data Science** at [Columbia University](https://datascience.columbia.edu/) (GPA: 4.22/4.0)  
+- 🎓 BTech in **Mechanical Engineering** from [IIT Bombay](https://www.iitb.ac.in/) with minors in **Computer Science** and **Data Science**  
+- 🧠 TA for *Machine Learning for Data Science*  
+- 💼 Currently an **Agentic AI Intern @ Honeywell**  
+- 🔬 Previously a **Graduate Researcher with Google x Columbia**  
+- 💡 Open to **internships** for Fall 2025 – [Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
+- ♟️ Chess player | 🏎️ F1 fan | 🧠 Curious builder
 
 ---
 
 ## 💼 Experience Highlights
 
-- 🧠 **Agentic AI Intern @ Honeywell**  
-  Built autonomous agents using LangGraph and LangChain; created tools like a SQL Agent for Databricks querying and a Plotting Agent for visual analytics
+- 🤖 **Agentic AI Intern @ Honeywell**  
+  Built autonomous agents with LangGraph + custom tools like a SQL Agent and Plotting Agent for dynamic workflows.
 
 - 🌱 **Graduate Researcher @ Columbia x Google**  
-  Used SAC, CQL, A2C & TD3 to optimize HVAC systems; developed an LSTM-based temperature predictor to reduce energy cost & emissions
+  Applied SAC, CQL, A2C, and TD3 to optimize HVAC control; built LSTM temperature forecasting models to reduce emissions.
 
-- 🛰️ **IIT Bombay | Aerospace Research**  
-  Reduced GPU load by 80% with motion-adaptive sampling; achieved 94% anomaly detection accuracy across camera feeds using YOLOv8 & Isolation Forest
+- 🛰️ **Undergraduate Researcher @ IIT Bombay**  
+  Reduced GPU usage by 80% with motion-aware sampling; anomaly detection using YOLOv8 + Isolation Forest across camera feeds.
 
 - 📈 **Data Science Intern @ Audify Tech**  
-  Built a churn prediction pipeline with 0.85 recall and increased ad CTR by 2% using Reinforcement Learning for real-time optimization
+  Built churn models (0.85 recall), boosted ad CTR by 2% via reinforcement learning strategies.
 
 ---
 
 ## 🚀 Notable Projects
 
-- 🤖 **Fact-Check Bot**: Extracted claims from ads via OCR + RAG pipeline using LangChain and FAISS  
-- 🛒 **Retail Sales Forecasting**: Achieved 5% MAPE using Temporal Fusion Transformers; improved accuracy via OpenAI embedding clustering  
-- ❤️ **CVD Risk Prediction**: Achieved 0.85 recall on highly imbalanced BRFSS dataset using SMOTE  
-- 🛢️ **Oil Price Forecasting**: Used LSTM + ARIMA to forecast prices with RMSE of 1.5  
-- 📷 **Gender/Ethnicity Classification**: Boosted accuracy to 72% with creative data augmentation & CNNs
+- 🔍 **Fact-Check Bot** — OCR + LangChain + FAISS for ad claim validation with RAG  
+- 🛒 **Retail Forecasting** — Temporal Fusion Transformers + OpenAI Embeddings → 5% MAPE  
+- ❤️ **Cardiovascular Risk Prediction** — 0.85 recall on imbalanced BRFSS dataset  
+- 🛢️ **Oil Price Forecasting** — ARIMA + LSTM with RMSE = 1.5  
+- 🧬 **Gender/Ethnicity Prediction** — CNNs + augmentation → 72% accuracy  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Languages**:  
-`Python`, `SQL`, `R`, `C++`, `Java`, `JavaScript`, `Matlab`, `HTML/CSS`
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**ML & DL**:  
-`PyTorch`, `Keras`, `TensorFlow`, `XGBoost`, `Scikit-Learn`, `SMOTE`, `LSTM`, `ARIMA`
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-008000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-**LLMs & NLP**:  
-`LangGraph`, `LangChain`, `Hugging Face Transformers`, `NLTK`, `OCR`, `FAISS`
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-**DevOps & Tools**:  
-`Docker`, `Kubernetes`, `Git`, `AWS`, `REST APIs`, `Gradio`, `PostgreSQL`
+### Special Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- 🔁 RL for deployment  
+- 📊 Causal Inference & Uplift Modeling  
+- 🧠 Multimodal LLMs for Healthcare  
+- ⏳ Advanced Time Series Forecasting  
 
 ---
 
