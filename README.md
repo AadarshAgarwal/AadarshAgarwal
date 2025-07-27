@@ -2,43 +2,77 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;MSDS+Student+at+Columbia+University;IIT+Bombay+Graduate;AI+%7C+ML+%7C+Healthcare+%7C+RL+%7C+Causal+Inference">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;MS+in+Data+Science+@+Columbia+University;IIT+Bombay+Alumnus;Reinforcement+Learning+%7C+Causal+Inference+%7C+LLMs">
   </a>
 </p>
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="45px"> About Me
+## 🧠 About Me
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-- 🎓 MS in **Data Science** at [Columbia University](https://datascience.columbia.edu/)
-- 🎓 B.Tech from **[IIT Bombay](https://www.iitb.ac.in/)**  
-- 🔬 Currently exploring the intersection of **AI**, **healthcare**, **finance**, and **reinforcement learning**
-- 📈 Passionate about solving impactful problems using **machine learning**, **causal inference**, and **data-driven decision making**
-- 💼 Open to **internship opportunities** – [View My Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)
-- 🧠 Constantly learning and building — always curious!
+- 🎓 MS in **Data Science** at [Columbia University](https://datascience.columbia.edu/), GPA: **4.22/4.00**  
+- 🎓 BTech in **Mechanical Engineering** from [IIT Bombay](https://www.iitb.ac.in/), with minors in **Computer Science** and **Data Science**  
+- 📊 Passionate about **Machine Learning**, **LLMs**, **Reinforcement Learning**, and **AI for Healthcare & Energy**  
+- 🧠 TA for *Machine Learning for Data Science* @ Columbia  
+- 💼 Open to **internship opportunities** in Summer/Fall 2025 — [View My Resume](https://drive.google.com/file/d/1U-QMvpH4Wnq5Oj4coDywHfmIP0GnFlbQ/view?usp=sharing)  
+- 🏎️ Also into Chess ♟️ and F1 🏁!
+
+---
+
+## 💼 Experience Highlights
+
+- 🧠 **Agentic AI Intern @ Honeywell**  
+  Built autonomous agents using LangGraph and LangChain; created tools like a SQL Agent for Databricks querying and a Plotting Agent for visual analytics
+
+- 🌱 **Graduate Researcher @ Columbia x Google**  
+  Used SAC, CQL, A2C & TD3 to optimize HVAC systems; developed an LSTM-based temperature predictor to reduce energy cost & emissions
+
+- 🛰️ **IIT Bombay | Aerospace Research**  
+  Reduced GPU load by 80% with motion-adaptive sampling; achieved 94% anomaly detection accuracy across camera feeds using YOLOv8 & Isolation Forest
+
+- 📈 **Data Science Intern @ Audify Tech**  
+  Built a churn prediction pipeline with 0.85 recall and increased ad CTR by 2% using Reinforcement Learning for real-time optimization
+
+---
+
+## 🚀 Notable Projects
+
+- 🤖 **Fact-Check Bot**: Extracted claims from ads via OCR + RAG pipeline using LangChain and FAISS  
+- 🛒 **Retail Sales Forecasting**: Achieved 5% MAPE using Temporal Fusion Transformers; improved accuracy via OpenAI embedding clustering  
+- ❤️ **CVD Risk Prediction**: Achieved 0.85 recall on highly imbalanced BRFSS dataset using SMOTE  
+- 🛢️ **Oil Price Forecasting**: Used LSTM + ARIMA to forecast prices with RMSE of 1.5  
+- 📷 **Gender/Ethnicity Classification**: Boosted accuracy to 72% with creative data augmentation & CNNs
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, SQL, R, JavaScript (basic)  
-- **ML/AI Tools**: PyTorch, scikit-learn, XGBoost, LSTM/RNN, Streamlit  
-- **Data & Infra**: Pandas, NumPy, Docker, PostgreSQL, Tableau  
-- **Other**: Git, Jupyter, VS Code
+**Languages**:  
+`Python`, `SQL`, `R`, `C++`, `Java`, `JavaScript`, `Matlab`, `HTML/CSS`
+
+**ML & DL**:  
+`PyTorch`, `Keras`, `TensorFlow`, `XGBoost`, `Scikit-Learn`, `SMOTE`, `LSTM`, `ARIMA`
+
+**LLMs & NLP**:  
+`LangGraph`, `LangChain`, `Hugging Face Transformers`, `NLTK`, `OCR`, `FAISS`
+
+**DevOps & Tools**:  
+`Docker`, `Kubernetes`, `Git`, `AWS`, `REST APIs`, `Gradio`, `PostgreSQL`
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
-- Causal Inference & Counterfactuals  
-- System Design for Agentic AI  
-- Time Series Forecasting and Anomaly Detection  
+- 🔁 Reinforcement Learning in Production  
+- 📊 Causal Inference + Uplift Modeling  
+- 🧠 Multimodal Transformers for Healthcare  
+- 📈 Time Series & Signal Forecasting
 
 ---
 
-## 🤝 Connect With Me!
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aadarshagarwal5521/" target="_blank">
@@ -55,4 +89,3 @@
 ---
 
 > *“Always seeking to build systems that learn, adapt, and drive real-world impact.”*
-
